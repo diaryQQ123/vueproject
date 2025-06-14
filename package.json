@@ -12,8 +12,11 @@
   "dependencies": {
     "@element-plus/icons-vue": "^2.3.1",
     "axios": "^1.9.0",
+    "body-parser": "^2.2.0",
     "core-js": "^3.8.3",
     "element-plus": "^2.10.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
     "vue": "^3.2.13",
     "vue-router": "^4.5.1",
     "vuex": "^4.0.2"
